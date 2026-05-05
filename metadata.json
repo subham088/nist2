@@ -1,0 +1,6 @@
+{
+  "name": "Face Recognition Attendance System",
+  "description": "University Student Portal integrated with a face recognition attendance system using React and Python Flask.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
